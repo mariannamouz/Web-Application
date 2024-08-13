@@ -19,3 +19,5 @@ The server part is implemented as a Node.js application, which is called from th
 To run the files you need to follow these steps:
 1) run command node index.js , in cmd
 2) open the address http://localhost:8080/ , in your web browser
+
+(the node-modules folder was too large to upload directly to the repository , it is included in the release)
