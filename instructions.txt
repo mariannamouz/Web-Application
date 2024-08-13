@@ -1,0 +1,6 @@
+To run the files you need to follow these steps:
+1) run command node index.js , in cmd
+2) open the address http://localhost:8080/ , in your web browser
+
+
+
